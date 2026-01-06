@@ -1,0 +1,30 @@
+# Virtual environment folders
+.venv/
+
+# logs folder
+logs/
+
+# Data folder
+data/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
