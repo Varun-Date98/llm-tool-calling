@@ -2,4 +2,4 @@ datasets>=2.0.0
 tinker
 numpy
 python-dotenv
-
+matplotlib
